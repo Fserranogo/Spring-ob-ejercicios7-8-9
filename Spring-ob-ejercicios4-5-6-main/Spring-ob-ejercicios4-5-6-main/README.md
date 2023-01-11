@@ -24,4 +24,5 @@ El acceso se puede realizar desde Postman o Navegador.
    6. Borrar todos los laptops
 
 ## Test Unitarios Laptop
-Se crean test unitarios con JUnit de los controladores HelloController y LaptopController
+Se crean test unitarios con JUnit de los controladores HelloController
+y LaptopController.
